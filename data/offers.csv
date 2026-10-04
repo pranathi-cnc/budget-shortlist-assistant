@@ -1,0 +1,16 @@
+product_name,category,price,quantity,supplier
+USB Keyboard,Keyboard,1200,8,TechWorld
+Mechanical Keyboard,Keyboard,1800,5,KeyStore
+Wireless Keyboard,Keyboard,1500,0,SmartSupply
+Premium Keyboard,Keyboard,2500,4,TechWorld
+USB Mouse,Mouse,700,15,TechWorld
+Wireless Mouse,Mouse,1100,10,SmartSupply
+Gaming Mouse,Mouse,2200,6,GameGear
+USB Headset,Headset,1400,7,AudioHub
+Gaming Headset,Headset,2800,3,GameGear
+Office Headset,Headset,1600,0,AudioHub
+24-inch Monitor,Monitor,9000,5,DisplayPro
+27-inch Monitor,Monitor,12000,3,DisplayPro
+HDMI Monitor,Monitor,7500,0,ScreenWorld
+USB-C Cable,Cable,500,20,SmartSupply
+Premium USB-C Cable,Cable,900,10,TechWorld
